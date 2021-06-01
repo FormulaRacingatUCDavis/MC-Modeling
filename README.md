@@ -5,7 +5,7 @@ Developing a single board for inverter and motor control :+1:
 1. [Notes](#Meeting-Notes)
 2. [Progress](#Future-Concerns)
 3. [Timeline](#Timeline)
-4. 
+
 # Meeting Notes 
 
 | June | 1 | 2021 |
