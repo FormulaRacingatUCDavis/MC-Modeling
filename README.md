@@ -6,12 +6,13 @@
 ### Goal: Develop a single board for inverter and motor control ( X Volts) :+1:
 
 | June | 1 | 2021 |
+| :----- |:--- | :--- |
 
 **Select Operating point/Motor _(Conrad)_**
 
-- [] Make Design Matrix
-- [] testing
-- [] testing 2
+- [ ] Make Design Matrix
+- [ ] testing
+- [ ] testing 2
 
 - Cost is determining factor
   - Find cheapest analogy to our current motor
