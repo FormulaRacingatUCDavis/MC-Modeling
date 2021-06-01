@@ -15,12 +15,12 @@ Developing a single board for inverter and motor control :+1:
 
 - Cost is determining factor
   - Find cheapest analogy to our current motor
-       - Encoderless? 
-       - [ ] ask Elliot, Tucker
+        - Encoderless? 
+        - [ ] ask Elliot, Tucker
   - LV (0 - 12V)
-       - Safety, cheaper
+        - Safety, cheaper
   - HV (48V +)
-       - Maybe more realistic?
+        - Maybe more realistic?
   - TestPack Voltage?
 
 ## Select Microcontroller/Launchpad (Leo)
