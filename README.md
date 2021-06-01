@@ -1,29 +1,29 @@
 # Homebrew Motor Controller
 #### Table of Contents
-[Notes](#Meeting Notes)
-[Progress](#Future Concerns)
+[Notes](#Meeting-Notes)
+[Progress](#Future-Concerns)
 # Meeting Notes 
-### Goal: Develop a single board for inverter and motor control ( X Volts) :+1:
 
 | June | 1 | 2021 |
 | :----- |:--- | :--- |
 
-**Select Operating point/Motor _(Conrad)_**
+### Goal: Develop a single board for inverter and motor control ( X Volts) :+1:
+ 
+## Select Operating point/Motor (Conrad)
 
 - [ ] Make Design Matrix
-- [ ] testing
-- [ ] testing 2
 
 - Cost is determining factor
   - Find cheapest analogy to our current motor
-  - Encoderless? - ask Elliot, Tucker
+    - Encoderless? 
+    - [ ] ask Elliot, Tucker
   - LV (0 - 12V)
     - Safety, cheaper
   - HV (48V +)
     - Maybe more realistic?
   - TestPack Voltage?
 
-**Select Microcontroller/Launchpad _(Leo)_**
+## Select Microcontroller/Launchpad (Leo)
 	Metrics
 		- COST
 		- Speed
