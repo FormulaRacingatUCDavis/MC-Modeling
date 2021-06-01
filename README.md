@@ -42,5 +42,7 @@ How To Quantify Performance?
 
 Board design for high frequency performance?
 
+Cooling system needed for inverter?
+
 # Timeline 
 tbd
