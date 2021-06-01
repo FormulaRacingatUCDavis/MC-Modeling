@@ -1,13 +1,13 @@
 # Homebrew Motor Controller
-#### Table of Contents
-[Notes](#Meeting-Notes)
-[Progress](#Future-Concerns)
+Developing a single board for inverter and motor control :+1:
+#### Table of Contents:
+1. [Notes](#Meeting-Notes)
+2. [Progress](#Future-Concerns)
 # Meeting Notes 
 
 | June | 1 | 2021 |
 | :----- |:--- | :--- |
 
-### Goal: Develop a single board for inverter and motor control ( X Volts) :+1:
  
 ## Select Operating point/Motor (Conrad)
 
@@ -24,13 +24,13 @@
   - TestPack Voltage?
 
 ## Select Microcontroller/Launchpad (Leo)
-	Metrics
-		- COST
-		- Speed
-		- High frequency PWM
-		- High speed ADC
-	TI - suitable chip-line
-		- Piccolo
+- Metrics
+  - COST
+  - Speed
+  - High frequency PWM
+  - High speed ADC
+- TI - suitable chip-line
+  - Piccolo
 
 # Future Concerns
 
